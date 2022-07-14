@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_menu"
+    tools:context=".AboutActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="Tentang Aplikasi"
+            android:textSize="23sp"
+            android:textColor="#455A64"
+            android:textStyle="bold"
+            android:background="#20B1F8"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:paddingTop="16dp"
+            app:srcCompat="@drawable/logo"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="32dp">
+
+
+            <me.biubiubiu.justifytext.library.JustifyTextView
+                android:id="@+id/teksTentangAplikasi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:textSize="16sp"
+                android:text="@string/semarang_health_merupakan_aplikasi_android_terkini_di_bidang_kesehatan_aplikasi_ini_bertujuan_untuk_memudahkan_warga_kota_semarang_untuk_mendapatkan_kemudahan_mengetahui_info_kesehatan_gejala_dan_penyakit_serta_beberapa_rumah_sakit_yang_ada_di_semarang_aplikasi_edukasi_ini_diharapkan_dapat_menyediakan_informasi_yang_membantu_para_pengguna_n_naplikasi_ini_dibuat_oleh_n_kelompok_3_ik2a_politeknik_negeri_semarang_n_anthonia_audisheren_n_aissya_embun_s_n_rifka_anggun_p_n_siti_nurhaliza_n_nayo_hidup_sehat_semarang_sehat_semarang_maju_n"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:textSize="16sp"
+                android:text="@string/nuntuk_kritik_maupun_saran_bisa_kirimkan_di_email_n_health_semarang_gmail_com"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

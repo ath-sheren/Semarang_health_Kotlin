@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "851648128245",
+    "project_id": "fir-auth-cd59f",
+    "storage_bucket": "fir-auth-cd59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851648128245:android:c54af279dea867eac411bc",
+        "android_client_info": {
+          "package_name": "com.example.projectrifka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851648128245-pid656t5ide78q40f4jfcaqqdvdrdavm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rqCgaLB6tP8ZCwEv1a3hUyzEhNMHrS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851648128245-pid656t5ide78q40f4jfcaqqdvdrdavm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851648128245:android:6d118bbc81f563eac411bc",
+        "android_client_info": {
+          "package_name": "com.example.semarangkoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851648128245-pid656t5ide78q40f4jfcaqqdvdrdavm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rqCgaLB6tP8ZCwEv1a3hUyzEhNMHrS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851648128245-pid656t5ide78q40f4jfcaqqdvdrdavm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

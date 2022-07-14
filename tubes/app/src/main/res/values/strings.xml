@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SemarangHealth</string>
+    <string name="api_key">0ddeab976e0e4441a2673230581825e9</string>
+    <string name="semarang_health_merupakan_aplikasi_android_terkini_di_bidang_kesehatan_aplikasi_ini_bertujuan_untuk_memudahkan_warga_kota_semarang_untuk_mendapatkan_kemudahan_mengetahui_info_kesehatan_gejala_dan_penyakit_serta_beberapa_rumah_sakit_yang_ada_di_semarang_aplikasi_edukasi_ini_diharapkan_dapat_menyediakan_informasi_yang_membantu_para_pengguna_n_naplikasi_ini_dibuat_oleh_n_kelompok_3_ik2a_politeknik_negeri_semarang_n_anthonia_audisheren_n_aissya_embun_s_n_rifka_anggun_p_n_siti_nurhaliza_n_nayo_hidup_sehat_semarang_sehat_semarang_maju_n">Semarang Health merupakan aplikasi android terkini di bidang Kesehatan. Aplikasi ini bertujuan untuk memudahkan warga kota semarang untuk mendapatkan kemudahan mengetahui info Kesehatan, gejala dan penyakit, serta beberapa rumah sakit yang ada di Semarang. Aplikasi edukasi ini diharapkan dapat menyediakan informasi yang membantu para pengguna.\n \nAplikasi ini dibuat oleh :\n (Kelompok 3 – IK2A – Politeknik Negeri Semarang)\n - Anthonia Audisheren\n - Aissya Embun S.\n - Rifka Anggun P.\n - Siti Nurhaliza\n \nAyo Hidup Sehat! Semarang Sehat, Semarang Maju!\n</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registrasi Sukses</string>
+    <string name="text_not_member">Belum Punya akun ? Daftar </string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="nuntuk_kritik_maupun_saran_bisa_kirimkan_di_email_n_health_semarang_gmail_com">\nUntuk kritik maupun saran bisa kirimkan di email :\n Health.Semarang@gmail.com</string>
+    <string name="title_activity_maps">Tampil Map</string>
+    <string name="firebase_auth">Firebase Auth</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="send_email">Send Email</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="logout">Logout</string>
+</resources>
